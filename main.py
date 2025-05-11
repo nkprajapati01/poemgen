@@ -53,4 +53,4 @@ if st.button("✨ Generate Poem"):
         st.warning("⚠️ Please enter a theme or keywords to generate a poem.")
 
 st.markdown("---")
-st.write("🌟 **Made by Vivek Chouhan** 🌟")
+st.write("🌟 **Made by Adarsh Kumar** 🌟")
